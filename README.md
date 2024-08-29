@@ -1,3 +1,3 @@
 # BIOS512
 
-> This is a quote
+This repository is for my BIOS 512 assignments
